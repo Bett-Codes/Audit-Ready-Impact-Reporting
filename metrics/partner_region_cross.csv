@@ -1,0 +1,9 @@
+partner_id,region,households,amount_usd
+A001,Northern,345,17250.0
+A002,Southern,295,14750.0
+A003,Central,710,35500.0
+B001,Northern,250,12500.0
+B002,Central,370,18500.0
+B003,Southern,177,8850.0
+B004,Eastern,145,7250.0
+B005,Western,225,11250.0

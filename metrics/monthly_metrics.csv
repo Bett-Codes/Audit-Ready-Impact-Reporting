@@ -1,0 +1,4 @@
+month,total_households,total_amount_usd,unique_partners,avg_households_per_partner,avg_amount_per_household
+2024-01-01,875,43750.0,7,125.0,50.0
+2024-02-01,1117,55850.0,8,139.6,50.0
+2024-03-01,525,26250.0,3,175.0,50.0

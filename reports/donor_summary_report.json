@@ -1,0 +1,145 @@
+{
+  "report_generated": "2026-01-27 07:11",
+  "program_overview": {
+    "total_households_reached": 2517,
+    "total_funds_disbursed_usd": 125850.0,
+    "average_support_per_household_usd": 50.0,
+    "partners_engaged": 8,
+    "regions_covered": 5
+  },
+  "monthly_performance": [
+    {
+      "month": "2024-01-01",
+      "total_households": 875,
+      "total_amount_usd": 43750.0,
+      "unique_partners": 7,
+      "avg_households_per_partner": 125.0,
+      "avg_amount_per_household": 50.0
+    },
+    {
+      "month": "2024-02-01",
+      "total_households": 1117,
+      "total_amount_usd": 55850.0,
+      "unique_partners": 8,
+      "avg_households_per_partner": 139.6,
+      "avg_amount_per_household": 50.0
+    },
+    {
+      "month": "2024-03-01",
+      "total_households": 525,
+      "total_amount_usd": 26250.0,
+      "unique_partners": 3,
+      "avg_households_per_partner": 175.0,
+      "avg_amount_per_household": 50.0
+    }
+  ],
+  "partner_contributions": [
+    {
+      "partner_id": "A001",
+      "total_households": 345,
+      "total_amount_usd": 17250.0,
+      "months_reported": 2,
+      "avg_monthly_households": 172.5,
+      "avg_monthly_amount": 8625.0
+    },
+    {
+      "partner_id": "A002",
+      "total_households": 295,
+      "total_amount_usd": 14750.0,
+      "months_reported": 3,
+      "avg_monthly_households": 98.3,
+      "avg_monthly_amount": 4916.67
+    },
+    {
+      "partner_id": "A003",
+      "total_households": 710,
+      "total_amount_usd": 35500.0,
+      "months_reported": 3,
+      "avg_monthly_households": 236.7,
+      "avg_monthly_amount": 11833.33
+    },
+    {
+      "partner_id": "B001",
+      "total_households": 250,
+      "total_amount_usd": 12500.0,
+      "months_reported": 2,
+      "avg_monthly_households": 125.0,
+      "avg_monthly_amount": 6250.0
+    },
+    {
+      "partner_id": "B002",
+      "total_households": 370,
+      "total_amount_usd": 18500.0,
+      "months_reported": 2,
+      "avg_monthly_households": 185.0,
+      "avg_monthly_amount": 9250.0
+    },
+    {
+      "partner_id": "B003",
+      "total_households": 177,
+      "total_amount_usd": 8850.0,
+      "months_reported": 2,
+      "avg_monthly_households": 88.5,
+      "avg_monthly_amount": 4425.0
+    },
+    {
+      "partner_id": "B004",
+      "total_households": 145,
+      "total_amount_usd": 7250.0,
+      "months_reported": 2,
+      "avg_monthly_households": 72.5,
+      "avg_monthly_amount": 3625.0
+    },
+    {
+      "partner_id": "B005",
+      "total_households": 225,
+      "total_amount_usd": 11250.0,
+      "months_reported": 2,
+      "avg_monthly_households": 112.5,
+      "avg_monthly_amount": 5625.0
+    }
+  ],
+  "regional_distribution": [
+    {
+      "region": "Central",
+      "total_households": 1080,
+      "total_amount_usd": 54000.0,
+      "unique_partners": 2,
+      "percentage_of_total_households": 42.9,
+      "percentage_of_total_amount": 42.9
+    },
+    {
+      "region": "Eastern",
+      "total_households": 145,
+      "total_amount_usd": 7250.0,
+      "unique_partners": 1,
+      "percentage_of_total_households": 5.8,
+      "percentage_of_total_amount": 5.8
+    },
+    {
+      "region": "Northern",
+      "total_households": 595,
+      "total_amount_usd": 29750.0,
+      "unique_partners": 2,
+      "percentage_of_total_households": 23.6,
+      "percentage_of_total_amount": 23.6
+    },
+    {
+      "region": "Southern",
+      "total_households": 472,
+      "total_amount_usd": 23600.0,
+      "unique_partners": 2,
+      "percentage_of_total_households": 18.8,
+      "percentage_of_total_amount": 18.8
+    },
+    {
+      "region": "Western",
+      "total_households": 225,
+      "total_amount_usd": 11250.0,
+      "unique_partners": 1,
+      "percentage_of_total_households": 8.9,
+      "percentage_of_total_amount": 8.9
+    }
+  ],
+  "data_quality_note": "Based on 18 validated data points"
+}
