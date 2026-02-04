@@ -1,0 +1,26 @@
+
+IMPACT REPORT - GENERATED 2026-01-27
+==========================================================
+OVERVIEW
+• Households Reached: 2,517
+• Total Funds Disbursed: $125,850.00
+• Average per Household: $50.00
+• Partners Engaged: 8
+• Regions Covered: 5
+
+MONTHLY TREND
+• 2024-01-01: 875 households ($43,750.00)
+• 2024-02-01: 1,117 households ($55,850.00)
+• 2024-03-01: 525 households ($26,250.00)
+
+REGIONAL DISTRIBUTION
+• Central: 1,080 households (42.9%)
+• Eastern: 145 households (5.8%)
+• Northern: 595 households (23.6%)
+• Southern: 472 households (18.8%)
+• Western: 225 households (8.9%)
+
+DATA QUALITY
+• Based on 18 validated records
+• Calculation timestamp: 2026-01-27T07:11:02.317220
+• Raw data preserved for audit trail

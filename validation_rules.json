@@ -1,0 +1,47 @@
+{
+  "business_rules": {
+    "program_period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31"
+    },
+    "approved_partners": ["A001", "A002", "A003", "B001", "B002", "B003", "B004", "B005"],
+    "thresholds": {
+      "min_households": 0,
+      "max_households": 10000,
+      "min_amount": 0,
+      "max_amount": 50000
+    }
+  },
+  "validation_checks": [
+    {
+      "name": "date_within_program",
+      "description": "Reporting month must be within program period",
+      "field": "reporting_month",
+      "type": "date_range"
+    },
+    {
+      "name": "partner_approved",
+      "description": "Partner must be in approved list",
+      "field": "partner_id",
+      "type": "value_in_list"
+    },
+    {
+      "name": "households_positive",
+      "description": "Households supported must be positive",
+      "field": "households_supported",
+      "type": "min_value"
+    },
+    {
+      "name": "amount_positive",
+      "description": "Amount disbursed must be positive",
+      "field": "amount_disbursed_usd",
+      "type": "min_value"
+    },
+    {
+      "name": "no_duplicates",
+      "description": "No duplicate records (partner + month)",
+      "fields": ["partner_id", "reporting_month"],
+      "type": "unique"
+    }
+  ]
+}

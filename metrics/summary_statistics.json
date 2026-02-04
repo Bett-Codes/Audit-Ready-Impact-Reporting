@@ -1,0 +1,13 @@
+{
+  "total_households_supported": 2517,
+  "total_amount_disbursed_usd": 125850.0,
+  "average_households_per_month": 839.0,
+  "average_amount_per_month": 41950.0,
+  "average_amount_per_household": 50.0,
+  "unique_partners": 8,
+  "unique_regions": 5,
+  "reporting_months": 3,
+  "total_records": 18,
+  "calculation_timestamp": "2026-01-27T07:11:02.317220",
+  "data_source": "reports/accepted_data.csv"
+}
